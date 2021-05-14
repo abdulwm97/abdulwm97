@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi my name is Abdul Makba, I am currently a trainee at Sparta Global.
+Hi, my name is Abdul Makba, I am currently a trainee at Sparta Global.
 
 I am currently learning how to make a web api testing framework.
 
