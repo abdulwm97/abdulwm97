@@ -13,7 +13,7 @@ Sets of tools and processes I am currenly familiar with:
 
 - Maven
 
-- Java
+- Java 11
 
 - Junit 5
 
