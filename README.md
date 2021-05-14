@@ -21,8 +21,6 @@ Sets of tools and processes I am currenly familiar with:
 
 - Mockito
 
-https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
-
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
