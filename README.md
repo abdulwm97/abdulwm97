@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-<!--
-**abdulwm97/abdulwm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Abdul Makba, I am currently a trainee at Sparta Global.
+
+I am currently learning how to make a web api testing framework.
+
+
+Sets of tools and processes I am currenly familiar with:
+Git
+Intellij
+Maven
+Java
 
 Here are some ideas to get you started:
 
