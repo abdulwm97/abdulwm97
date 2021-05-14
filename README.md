@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hi, my name is Abdul Makba, I am currently a trainee at Sparta Global.
-
-I am currently learning how to make a web api testing framework.
+Hi, my name is Abdul Makba, I am currently a trainee at Sparta Global as a Java SDET. My current journey has lead me to learn how to build different frameworks like api testing frameworks and web testing frameworks.
 
 
 Sets of tools and processes I am currenly familiar with:
