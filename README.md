@@ -23,6 +23,7 @@ Sets of tools and processes I am currenly familiar with:
 
 ![java badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![maven badge](https://img.shields.io/badge/-Maven-green)
+![Git badge](https://img.shields.io/badge/-Git-yellow)
 
 
 <!--Here are some ideas to get you started:
