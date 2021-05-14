@@ -7,19 +7,19 @@ I am currently learning how to make a web api testing framework.
 
 Sets of tools and processes I am currenly familiar with:
 
-Git
+- Git
 
-Intellij
+- Intellij
 
-Maven
+- Maven
 
-Java
+- Java
 
-Junit 5
+- Junit 5
 
-Hamcrest
+- Hamcrest
 
-Mockito
+- Mockito
 
 <!--Here are some ideas to get you started:
 
